@@ -1,0 +1,74 @@
+.baner{
+	background-image:url(../images/slide3.jpg);
+	width: 100%;
+	height: 500px;
+	background-position: center bottom;
+}
+
+.content{
+	background-color: #FFFFFF;
+}
+
+.footer {
+	background-color:#1e1e15;
+	color:#FFF;	
+} 
+
+.usluge > p {
+
+color: black;
+font-size: 18px;
+}
+
+.footer2 {
+	background-color:black; 
+	color:#FFF;
+	width:100%;
+	padding:5px;	
+}
+
+.footer > a:hover{
+	color: black;
+}
+
+
+
+.jumbotr {
+background-color: #33ccff;
+color: #FFF;
+border-radius: 0px;
+}
+
+.jumbotron-sm { 
+padding-top: 24px;
+padding-bottom: 24px; 
+}
+
+
+/* Stilovi za kalendar */
+.monthNow {
+	color: blue;
+	text-align: center;
+}
+.dayNow {
+	border: 2px solid black;
+	color: #FF0000;
+	text-align: center;
+}
+.calendar td {
+	htmlContent: 2px;
+	width: 40px;
+	height:30px;
+}
+.monthNow th {
+	background-color: #3B496E;
+	color: #FFFFFF;
+	text-align: center;
+	padding:10px;
+}
+.dayNames {
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #900;
+}
+/* Stilovi za kalendar */
