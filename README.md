@@ -1,2 +1,2 @@
 # namikonto
-accounting agency - web site
+accounting agency
