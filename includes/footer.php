@@ -13,14 +13,14 @@
       <div class="col-md-4">
         <h2> Poslovanje </h2>
         <hr>
-        <p> <a href="o-nama"> O nama </a> </p>
-		<p> <a href="usluge"> Knjigovodstvene usluge </a> </p>
+        <p> <a href="o-nama.php"> O nama </a> </p>
+		<p> <a href="usluge.php"> Knjigovodstvene usluge </a> </p>
       </div>
       <div class="col-md-4">
         <h2> Korisni linkovi </h2>
         <hr>
         <p> <a href ="https://www.nbs.rs"> Narodna banka</a> </p>
-		<p> <a href ="https://www.apr.gov.rs"> Privredni registar </a> </p>
+		<p> <a href ="https://www.apr.gov.rs/%D0%9D%D0%B0%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0.aspx"> Privredni registar </a> </p>
 		<p> <a href ="https://www.privsav.rs"> Privredni savetnik </a> </p>
 		<p> <a href ="https://www.mfin.gov.rs"> Ministarsrvo finansija </a> </p>
 		<p> <a href ="https://www.poreskauprava.gov.rs"> Poreska uprava </a> </p>	
