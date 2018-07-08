@@ -12,7 +12,7 @@
 <div class="row">
 
 <div class="col-md-8">
-<h1><strong>Knjigovodstvene Usluge</strong> </h1>
+<h1 style="font-size: 28px;"><strong>Knjigovodstvene Usluge</strong> </h1>
 <p style="font-size: 20px;">Svoje usluge znamo da prilagodimo velikim, srednjim i malim preduzećima</p>
 <hr>
 <div class="usluge">
@@ -43,24 +43,40 @@
 </ul>
 
 <br>
-<h1><strong>Poresko i poslovno savetovanje</strong> </h1>
+<h1 style="font-size: 28px;"><strong>Poresko i poslovno savetovanje</strong> </h1>
 <hr>
-<p>Poreski savetnici svojim sveobuhvatnim pristupom smanjuju vaše poreske obaveze na minimum.<br> U toku godine planiramo i implementiramo strategije koje smanjuju poresku izloženost i poboljšavaju uspešnost. Naši poreski stručnjaci su u toku sa, uvek promenljivim, kompleksnim pravilima poreske regulative.<br> Sa klijentima u potpunosti sarađujemo u planiranju poreskih rešenja i vodimo ih na putu do uspeha. Kod poreskih kontrola, nastupamo u vaše ime. Svojim znanjem i iskustvom u poreskim pregledima obezbeđujemo najbolji rezultat za vaše preduzeće.
-<br>Svoju kompletnu uslugu dopunjujemo ličnim pristupom do svakog poslovnog partnera. Vaš sagovornik biće stručnjak, ne samo na opštem području računovodstva i rešenja koja se tiču poreza, već će biti u potpunosti upoznat sa vama, vašim preduzećem i specifičnostima poslovanja.
-Naši poreski savetnici mogu za vas da obave i preventivni poreski pregled. <br>Na želju poslovnog partnera, preventivni poreski pregled obavljamo i na početku naše saradnje. <br> </p>
 
-<h1><strong>Arhiviranje dokumentacije</strong> </h1>
+<ul>
+<li> Poreski savetnici svojim sveobuhvatnim pristupom smanjuju vaše poreske obaveze na minimum.</li><br> 
+<li> U toku godine planiramo i implementiramo strategije koje smanjuju poresku izloženost i poboljšavaju uspešnost. </li> </br> 
+<li> Naši poreski stručnjaci su u toku sa, uvek promenljivim, kompleksnim pravilima poreske regulative.</li></br> 
+<li> Sa klijentima u potpunosti sarađujemo u planiranju poreskih rešenja i vodimo ih na putu do uspeha. </li> </br>
+<li> Kod poreskih kontrola, nastupamo u vaše ime. Svojim znanjem i iskustvom u poreskim pregledima obezbeđujemo najbolji rezultat za vaše preduzeće. </li> </br>
+<li> Svoju kompletnu uslugu dopunjujemo ličnim pristupom do svakog poslovnog partnera. Vaš sagovornik biće stručnjak, ne samo na opštem području računovodstva i rešenja koja se tiču poreza, već će biti u potpunosti upoznat sa vama, vašim preduzećem i specifičnostima poslovanja. </li> </br>
+<li> Naši poreski savetnici mogu za vas da obave i preventivni poreski pregled. </li> </br>
+<li> Na želju poslovnog partnera, preventivni poreski pregled obavljamo i na početku naše saradnje. </li>
+
+</ul>
+
+<h1 style="font-size: 28px;"><strong>Arhiviranje dokumentacije</strong> </h1>
 <hr>
-<p>U Knjigovodstvenoj agenciji <b>Nami konto</b> možete arhivirati dokumentaciju iz predhodnih godina, bez potrebe odnošenja i zauzimanja prostora u vašim firmama. Dokumentacija će biti čuvana i uništena posle isteka zakonskog roka za njeno čuvanje.</p> <br>
 
-<h1><strong>Zаšto da se odlučite za nas?</strong></h1> <hr>
+<ul>
+<li> U Knjigovodstvenoj agenciji <b>Nami konto</b> možete arhivirati dokumentaciju iz predhodnih godina, bez potrebe odnošenja i zauzimanja prostora u vašim firmama. </li> </br>
+<li> Dokumentacija će biti čuvana i uništena posle isteka zakonskog roka za njeno čuvanje.</li>
 
-<p>  - Vašu dokumentaciju knjižimo odmah po prispeću.</p>
-<p>  - U svakom momentu, na Vaš zahtev, možete dobiti uvid u stanje Vaših dugovanja i potraživanja. </p>
-<p>  - Obavljamo i niz drugih računovodstvenih poslova kako bismo Vam pružili kompletnu uslugu.</p>
-<p>  - Redovno pratimo izmene zakonskih propisa i o tome Vas obaveštavamo putem cirkulara. </p>
-<p>  - Strogo čuvamo sve podatke o Vašem poslovanju.</p>
-<p>  - Ponudićemo vam najbolji odnos kvalitet/cena.</p>
+</ul>
+
+<h1 style="font-size: 28px;"><strong>Zаšto da se odlučite za nas?</strong></h1> <hr>
+
+<ul>
+<li> Vašu dokumentaciju knjižimo odmah po prispeću.</li> </br>
+<li> U svakom momentu, na Vaš zahtev, možete dobiti uvid u stanje Vaših dugovanja i potraživanja. </li> </br>
+<li> Obavljamo i niz drugih računovodstvenih poslova kako bismo Vam pružili kompletnu uslugu.</li> </br>
+<li> Redovno pratimo izmene zakonskih propisa i o tome Vas obaveštavamo putem cirkulara. </li> </br>
+<li> Strogo čuvamo sve podatke o Vašem poslovanju.</li> </br>
+<li> Ponudićemo vam najbolji odnos kvalitet/cena.</li>
+</ul>
 
 </div>
 
